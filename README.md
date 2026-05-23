@@ -1,4 +1,4 @@
-<div align="center">Link to my Portfolio :<b> https://verdant-lebkuchen-9aa8be.netlify.app/e</b></div><br>
+<div align="center">Link to my Portfolio :<b> https://verdant-lebkuchen-9aa8be.netlify.app</b></div><br>
 <div align="center"><b>Portfolio Website</b></div><br>
 The Portfolio Website is a personal web application designed to showcase academic and professional projects in a clean, responsive format. It highlights key projects such as the Employee Management System, Phone Book App, Ticket Management System, Binary to Decimal Converter and Ac to DC converter, while also providing easy access to career objectives, technical skills, and contact information. The site improves recruiter accessibility by centralizing project details and GitHub links in one place, demonstrating both technical ability and presentation skills.<br><br>
 <div align="center"><b>Tools & Libraries:</b> HTML, CSS, JavaScript, Netlify Live(Deployment) </div>
